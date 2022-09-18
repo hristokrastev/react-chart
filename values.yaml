@@ -1,0 +1,5 @@
+replicaCount: 1
+
+ports:
+  client: 8771
+  postgres: 5432
